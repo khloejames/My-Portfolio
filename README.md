@@ -15,5 +15,5 @@ Welcome to my portfolio! I am a front-end web developer passionate about  buildi
   -** Landing Page for Local business**: Designing a responsive landing page {In progress}.
   ## Contact
   - Email: [khloejamess22@gmail.com]
-  - linkedIn:{]
+  - linkedIn:{https://www.linkedin.com/in/khloe-james-828190332/details/experience/]
   
